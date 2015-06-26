@@ -1,0 +1,41 @@
+{
+    "appKeys": {
+        "dummy": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "MakeAwesomeHappen",
+    "longName": "Chip8 Emulator",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/invaders.rom",
+                "name": "INVADERS",
+                "type": "raw"
+            },
+            {
+                "file": "data/breakout.rom",
+                "name": "BREAKOUT",
+                "type": "raw"
+            },
+            {
+                "file": "data/digits.bin",
+                "name": "DIGITS",
+                "type": "raw"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Chip8",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "2c50b0d5-0661-4829-b4e3-266265acf26a",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
